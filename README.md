@@ -1,7 +1,7 @@
 # udacity_ab_testing
 For this project, I worked to implement an A/B test for an e-commerce website and understand the results. The goal was to decide if the company should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-The dataset contains information on each user is, time, treatment group, conversion and country. The approach was to assess and clean the dataset and run the A/B test.
+The dataset contains information on each user, time, treatment group, conversion and country. The approach was to assess and clean the dataset and run the A/B test.
 
 ## A/B Test:
 
